@@ -30,9 +30,6 @@ import android.util.Log;
 import com.example.android.wearable.timer.util.Constants;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
-import com.google.android.gms.wearable.Wearable;
-
-import java.util.concurrent.TimeUnit;
 
 /**
  * Service class that manages notifications of the timer.

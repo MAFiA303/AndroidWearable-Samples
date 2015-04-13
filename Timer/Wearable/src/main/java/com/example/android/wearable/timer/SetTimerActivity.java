@@ -35,9 +35,9 @@ import android.widget.ListView;
 
 import com.example.android.wearable.timer.util.Constants;
 import com.example.android.wearable.timer.util.TimerFormat;
-import com.google.android.gms.common.ConnectionResult;
-import com.google.android.gms.common.api.GoogleApiClient;
-import com.google.android.gms.wearable.Wearable;
+//import com.google.android.gms.common.ConnectionResult;
+//import com.google.android.gms.common.api.GoogleApiClient;
+//import com.google.android.gms.wearable.Wearable;
 
 /** This class sets a timer. */
 public class SetTimerActivity extends Activity
